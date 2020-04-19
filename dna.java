@@ -121,7 +121,7 @@ public class dna extends SF
     traceback();
 
     System.out.println();
-    System.out.println("Generated random sequences: ");
+    System.out.println("Chosen sequences: ");
     System.out.println(A.substring(1));
     System.out.println(B.substring(1));
     System.out.println();
