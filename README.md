@@ -6,4 +6,4 @@ javac dna.java
 
 java dna TGAC ACTG
 
-You can replace TGAC and ACTG with any combination of letters (A,C,T,G).
+You can replace TGAC and ACTG with any combination of letters (A,C,T,G) of any length.
